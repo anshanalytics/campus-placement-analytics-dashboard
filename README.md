@@ -84,7 +84,7 @@ Student-level records (98 students) with attributes such as:
 
 ## 7. Dashboard Screenshot
 
-![Campus Placement Analytics Dashboard](dashboard_screenshot.png)
+![Campus Placement Analytics Dashboard](https://github.com/anshanalytics/campus-placement-analytics-dashboard/blob/main/Shapshot%20of%20the%20Dashboard.png)
 
 ---
 
