@@ -94,7 +94,7 @@ Student-level records (98 students) with attributes such as:
 - Small sample size (98 students), so segment percentages can swing widely; some segments contain very few students.
 - The analysis shows association, not causation.
 
-##9. Author
+## 9. Author
 
 **Ansh Sharma**
 
