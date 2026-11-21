@@ -88,17 +88,16 @@ Student-level records (98 students) with attributes such as:
 
 ---
 
-## 8. Repository Contents
 
-```
-.
-├── README.md
-└── dashboard_screenshot.png
-```
-
----
-
-## 9. Limitations
+## 8. Limitations
 
 - Small sample size (98 students), so segment percentages can swing widely; some segments contain very few students.
 - The analysis shows association, not causation.
+
+##9. Author
+
+**Ansh Sharma**
+
+- GitHub: [anshanalytics](https://github.com/anshanalytics)
+- LinkedIn: [Ansh Sharma](https://www.linkedin.com/in/ansh-sharma-02445b360)
+
